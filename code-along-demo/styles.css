@@ -84,13 +84,30 @@ nav li a{
 nav li a:hover{
   text-decoration: underline;
 }
+main{
+  
+}
 main section article, main section aside{
   width: 50%;
   float: left;
+  padding: 20px 0;
 }
-main section figure img {
+main section {
+  text-align: center;
+}
+main section article figure img {
   width: 275px;
 }
 main section aside figure img{
   width: 168px;
+}
+main section p{
+  margin: 10px 20px;
+  text-align: left;
+}
+main section article{
+  background-color: #f5f5dc;
+}
+main section aside{
+  background-color: rgb(201, 199, 177);
 }

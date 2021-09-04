@@ -125,3 +125,13 @@ main section figcaption{
   font-style: italic;
   margin: 10px 0 20px 0;
 }
+footer{
+  background-color: #ff0000;
+  clear: both;
+  height: 50px;
+  padding: 25px 25px 0 25px;
+  color: #ffffff;
+  font-size: 0.9em;
+  text-align: center;
+  font-style: italic;
+}

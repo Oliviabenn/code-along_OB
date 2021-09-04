@@ -88,3 +88,9 @@ main section article, main section aside{
   width: 50%;
   float: left;
 }
+main section figure img {
+  width: 275px;
+}
+main section aside figure img{
+  width: 168px;
+}

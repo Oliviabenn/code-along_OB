@@ -53,3 +53,13 @@ body{
   margin:auto;
   background-color:rgb(219, 217, 193);
 }
+header {
+  height: 75px;
+  background-color: #ffffff;
+}
+header h1 {
+  color: #ff0000;
+  font-size: 2em;
+  font-weight: bold;
+  float: left;
+}

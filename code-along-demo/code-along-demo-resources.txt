@@ -1,0 +1,38 @@
+Module 1 Week 1
+Code Along Demo
+Resources
+
+WEB
+
+HTML5 Tags
+https://www.w3schools.com/tags/
+
+CSS3 Properties
+https://www.w3docs.com/learn-css/css3-properties.html
+
+Google Fonts
+https://fonts.google.com/
+(Demo font: Prosto One, regular 400)
+
+CSS Reset 2021
+https://www.codegrepper.com/code-examples/css/reset+css+2021
+
+
+VS CODE
+
+Basic HTML start up codes:
+Shift + !
+
+Add/Install Extensions:
+Mac: command + shift + X
+Windows: ctrl + shift + X
+
+Recommended Extensions:
+•	Prettier
+•	Live Server (if not already installed)
+
+Preview page on Browser:
+Mac: command + L  then  command + O
+Windows: ctrl + L then ctrl + O
+OR
+Click Go Live at the bottom bar window

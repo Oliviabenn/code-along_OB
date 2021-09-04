@@ -56,10 +56,17 @@ body{
 header {
   height: 75px;
   background-color: #ffffff;
+  padding: 25px;
 }
 header h1 {
   color: #ff0000;
   font-size: 2em;
   font-weight: bold;
   float: left;
+  font-family: 'Prosto One', cursive;
+}
+nav{
+  float: left;
+  margin-left: 200px;
+  margin-top: 10px;
 }

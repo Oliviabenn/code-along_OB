@@ -85,7 +85,7 @@ nav li a:hover{
   text-decoration: underline;
 }
 main{
-  
+
 }
 main section article, main section aside{
   width: 50%;
@@ -102,8 +102,9 @@ main section aside figure img{
   width: 168px;
 }
 main section p{
-  margin: 10px 20px;
+  margin: 10px 0;
   text-align: left;
+  padding: 0 20px;
 }
 main section article{
   background-color: #f5f5dc;
